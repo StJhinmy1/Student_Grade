@@ -1,1 +1,1 @@
-Cálculo da nota média do aluno informando se ele foi aprovado ou reprovado
+Exercício feito em aula acompanhado de melhorias e/ou modificações feitas por mim para testar meu aprendizado
